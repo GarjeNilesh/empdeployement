@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:8080";
+const API_URL = "https://empdeployement-1.onrender.com";
 
 class EmployeeService {
   saveEmployee(employee) {
