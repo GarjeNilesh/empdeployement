@@ -20,7 +20,7 @@ import com.Model.Worker;
 import com.Service.EmployeeService;
 
 
-@CrossOrigin(origins = "http://localhost:5174")
+@CrossOrigin(origins = "https://your-project.vercel.app")
 @RestController
 public class EmployeeController {
 
